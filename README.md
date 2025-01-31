@@ -7,6 +7,7 @@ The study aims to investigate and analyze the biomechanical characteristics of s
 
 
 ---
+
 ### Methods
 
 Finite Element Modeling of 2D Plane Elements: Utilizing hyperelastic constitutive models, 2D plane element models were developed. An inverse displacement algorithm was applied to these models, and the results were compared with theoretical calculations to validate the approach.
@@ -14,6 +15,7 @@ Finite Element Modeling of 2D Plane Elements: Utilizing hyperelastic constitutiv
 <p align="center">
     <img src="/res/figures/before_after-deform.png" width="50%" align="center">
 </p>
+
 ---
 
 Geometric Reconstruction of 3D Soft Tissue Models: Virtual 3D soft tissue models were geometrically reconstructed to explore the applicability of the inverse displacement algorithm. The study examined how parameter selection influences computational outcomes.
@@ -21,4 +23,5 @@ Geometric Reconstruction of 3D Soft Tissue Models: Virtual 3D soft tissue models
 <p align="center">
     <img src="/res/figures/P_40.png" width="50%" align="center">
 </p>
+
 ---
