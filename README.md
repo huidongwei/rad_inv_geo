@@ -1,6 +1,6 @@
 # rad_inv_geo
-**About
-Inverse geometry reconstruction with FEA simulation and backward displacement algorithm**
+## **About**
+Reconstruction of Prestressed Soft Tissue by Finite Element Simulation with Backward Displacement Method
 
 ### Summary
 The study aims to investigate and analyze the biomechanical characteristics of soft tissue materials under prestressed conditions. By employing inverse displacement algorithms and finite element analysis (FEA), the research seeks to reconstruct the initial geometry of soft tissues and predict their stress distributions in prestressed states.
