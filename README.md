@@ -5,7 +5,6 @@ Reconstruction of Prestressed Soft Tissue by Finite Element Simulation with Back
 ### Summary
 The study aims to investigate and analyze the biomechanical characteristics of soft tissue materials under prestressed conditions. By employing inverse displacement algorithms and finite element analysis (FEA), the research seeks to reconstruct the initial geometry of soft tissues and predict their stress distributions in prestressed states.
 
-
 ---
 
 ### Methods
